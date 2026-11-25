@@ -1,0 +1,164 @@
+{
+  "cesp_version": "1.0",
+  "name": "lol_jinx_kr",
+  "display_name": "징크스 (League of Legends, 한국어)",
+  "version": "1.0.0",
+  "description": "League of Legends Jinx (징크스) Korean voice lines",
+  "author": {
+    "name": "heecheonkim",
+    "github": "hekkim"
+  },
+  "license": "CC-BY-NC-4.0",
+  "language": "ko",
+  "tags": [
+    "gaming",
+    "league-of-legends",
+    "riot",
+    "korean",
+    "jinx"
+  ],
+  "categories": {
+    "session.start": {
+      "sounds": [
+        {
+          "file": "sounds/JinxIAmJinx_KR.wav",
+          "label": "그래! 내가 징크스다!",
+          "sha256": "10103b7e5c5d755162897828c4494b972a0b3163873f422b1268cc0d264fe502"
+        },
+        {
+          "file": "sounds/JinxReadyForSurprise_KR.wav",
+          "label": "깜짝 놀랄 준빈 돼 있겠지?",
+          "sha256": "cce705122d9b8e5705d22eb8db54d30dca925cf6156a2b1ff5723a50a66e8366"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/JinxThreeTwoOne_KR.wav",
+          "label": "셋, 둘, 하나, 발사!",
+          "sha256": "c729f4143ec12c940813ac111a78deef70ee8eb0ce6c660d953d73b08bdecb11"
+        },
+        {
+          "file": "sounds/JinxBeRightBack_KR.wav",
+          "label": "금방 올게!",
+          "sha256": "6d8374f9a3b0b5ddc3411b1243122379a0871a3694c67465dbd32f35ff1ea9cb"
+        },
+        {
+          "file": "sounds/JinxJustShoot_KR.wav",
+          "label": "아, 몰라! 그냥 총이나 쏘자고!",
+          "sha256": "fe851ca2a8390ee74342ca50086e00c563bfe6ec8e26d3c53bdca0dacc1f62fc"
+        },
+        {
+          "file": "sounds/JinxNoThinking_KR.wav",
+          "label": "싹 날려버리는데 생각 따윈 필요 없어!",
+          "sha256": "627ad4e9d11f711381280ef77c19edab84b521ddf8b23d7284c7c7a2972128d7"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "sounds/JinxLoveIt_KR.wav",
+          "label": "너무 좋아!",
+          "sha256": "8e468e7936d6e9af697b356f6b2cc6fa1decfe9914a013bc7da17d47a63f778d"
+        },
+        {
+          "file": "sounds/JinxBang_KR.wav",
+          "label": "빵야!",
+          "sha256": "ad60d864caf904a6479f1ae0df93b3267fb55898cf93dfeb1f4f1920d008166a"
+        },
+        {
+          "file": "sounds/JinxAllPlanned_KR.wav",
+          "label": "모두 계획된 거야. 방금 전에 말이야.",
+          "sha256": "d9d7c5a2259a62e78af735918a8ca16d90e48b8b31da13aaf50a8578a00886f8"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "sounds/JinxWastedBullets_KR.wav",
+          "label": "아, 이런. 총알 낭비라니!",
+          "sha256": "cdc80a48465834b6a29b2069259cadea2e17a4f6a2ee09e1be67307cc4a258f0"
+        },
+        {
+          "file": "sounds/JinxNotOnPurpose_KR.wav",
+          "label": "일부러 그런 건 아니라고.",
+          "sha256": "e079d3edd0c308467e48b155d74b476a7ba1dfff4cfa9926b47727e8fe8e8fd2"
+        }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        {
+          "file": "sounds/JinxWhatWasNext_KR.wav",
+          "label": "뭐 할 차례였더라?",
+          "sha256": "80061d70ff8437d3500de890cbc75c5c49e81785b5bd339a50dbf86c3dff255f"
+        },
+        {
+          "file": "sounds/JinxWhoseTurn_KR.wav",
+          "label": "음, 누굴 쏠 차례였더라?",
+          "sha256": "7b0347426b47250005cbc58f60f5d8917409c8a27b0a8dcd1710fa688c0effca"
+        },
+        {
+          "file": "sounds/JinxWait_KR.wav",
+          "label": "잠깐!",
+          "sha256": "d78052bdfe336ddec4fe18b0b6f9919c5ed0661813c24f65e3753c110e4486a5"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/JinxGettingBored_KR.wav",
+          "label": "점점 지루해지는데?",
+          "sha256": "1fb8b29972a2206744a627e4722759d0f32844eb880f0e393f36cb153ef46f34"
+        },
+        {
+          "file": "sounds/JinxTimeToSwitch_KR.wav",
+          "label": "총을 바꿀 때가 된 거 같은데?",
+          "sha256": "7733341fee78c7915f09d8c3b1a303c120c3f863c0e7c866e2b78f12827ad5ba"
+        },
+        {
+          "file": "sounds/JinxCalmDown_KR.wav",
+          "label": "진정해.",
+          "sha256": "ac874651e3417d977cbff276b5de053c908877165bc98cbd0dcab5e9b62cbafd"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "sounds/JinxHoldStill_KR.wav",
+          "label": "가만히 좀 있어 봐!",
+          "sha256": "ebf303d685b7b8ec86572c73dfa5657f35a1d3a58bdd7cc0f5eb6c6caac3e66e"
+        },
+        {
+          "file": "sounds/JinxCrazyMe_KR.wav",
+          "label": "미쳤다고? 내가?",
+          "sha256": "feb3fc488c0de18dc24b6172efc07b2dcdae93915b5527e1294617c9ee83cbd9"
+        },
+        {
+          "file": "sounds/JinxYesCrazy_KR.wav",
+          "label": "그래, 나 미쳤어.",
+          "sha256": "4020d47e564eec4f604b7cbc2b2b75d866bf329af34b760eb7a5de4ceb4d2683"
+        },
+        {
+          "file": "sounds/JinxFeelingBad_KR.wav",
+          "label": "왜, 기분 나빠?",
+          "sha256": "dc53baade40e2cc99c275358061564aaf38b355f229c26efdac74c0ceea2d5e3"
+        }
+      ]
+    }
+  },
+  "category_aliases": {
+    "greeting": "session.start",
+    "acknowledge": "task.acknowledge",
+    "complete": "task.complete",
+    "error": "task.error",
+    "permission": "input.required",
+    "resource_limit": "resource.limit",
+    "annoyed": "user.spam"
+  }
+}
